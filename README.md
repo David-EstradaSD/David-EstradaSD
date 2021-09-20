@@ -1,4 +1,4 @@
-# Welcome! 👋
+## Welcome! 👋
 ## I'm David Estrada | Full Stack Developer
 [David's Portfolio](https://dave-estrada.com/)
 

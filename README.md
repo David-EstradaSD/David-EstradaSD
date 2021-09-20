@@ -9,3 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Tarahumaran Native American (a tribe renown for running ultra-marathons for sport!)
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD)](https://github.com/David-EstradaSD/github-readme-stats)
+
+

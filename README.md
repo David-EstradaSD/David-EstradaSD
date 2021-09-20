@@ -17,4 +17,4 @@ Skills: Java | JavaScript | React | Angular
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dave-estrada.com/)  
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD)](https://github.com/David-EstradaSD/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD&theme=tokyonight&show_icons=true)](https://github.com/David-EstradaSD/github-readme-stats)

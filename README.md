@@ -2,9 +2,9 @@
 
 ## I'm Dave. Welcome to my GitHub!
 
-My first _Hello world_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, as well as a couple databases and I have a comfortable grasp on JavaScript, including several of its frameworks. 
+My first _Hello world_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, a couple databases and JavaScript (_including several of its frameworks_). 
 
-If I'm not coding away, I'm most likely spending quality time with my wife and daughter or out hiking with our dog. I’m open to work and projects, so feel free to reach out!
+If I'm not coding away, I'm most likely near the ocean or hiking with my dog high enough to see the ocean. I’m open to work and projects, so feel free to reach out!
 
 #### Find out more at my [_portfolio_](https://dave-estrada.com/). You can also email me at _destrada2193@gmail.com_ or click on one of the links below!
 

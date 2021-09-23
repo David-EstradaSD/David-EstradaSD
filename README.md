@@ -4,7 +4,7 @@
 
 My first Hello world was written in Java and as such, remains my favorite and strongest language. I am a full stack developer: I have experience using SQL, as well as a couple databases and I have a comfortable grasp on JavaScript, including several of its frameworks. I’m open to work and projects, so feel free to reach out!
 
-### Here's my [Portfolio](https://dave-estrada.com/). You can also email me at 📫  destrada2193@gmail.com 
+### Here's my [_Portfolio_](https://dave-estrada.com/). You can also email me at _destrada2193@gmail.com_
 
 ### Skills: 
 * Java

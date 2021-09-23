@@ -1,4 +1,3 @@
-# Hey there! I'm David Estrada
 
 ![Paddling](/images/hiking.jpeg)
 

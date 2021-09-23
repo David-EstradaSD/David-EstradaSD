@@ -2,7 +2,7 @@
 ## I'm David Estrada | Full Stack Developer
 [David's Portfolio](https://dave-estrada.com/)
 
-![Paddling](/images/paddleboard.JPG)
+![Paddling](/images/hiking.jpeg)
 
 My first Hello world was written in Java and as such, remains my favorite and strongest language. I am a full stack developer: I have experience using SQL, as well as a couple databases and I have a comfortable grasp on JavaScript, including several of its frameworks.
 

@@ -1,4 +1,4 @@
-# Hello! 👋  I'm David Estrada | Full Stack Developer
+# Hello! 👋  I'm David Estrada, Full Stack Developer
 
 ![Paddling](/images/hiking.jpeg)
 

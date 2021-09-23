@@ -1,7 +1,6 @@
+![HikingToro](/images/hiking.jpeg)
+
 ## I'm Dave. Welcome to my GitHub!
-
-![Paddling](/images/hiking.jpeg)
-
 
 My first _Hello world_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, as well as a couple databases and I have a comfortable grasp on JavaScript, including several of its frameworks. 
 

@@ -4,7 +4,7 @@
 
 My first _Hello world_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, a couple databases and JavaScript (_including several of its frameworks_). 
 
-If I'm not coding away, I'm most likely near the ocean or hiking with my dog high enough to see the ocean. I’m open to work and projects, so feel free to reach out!
+If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 
 #### Find out more at my [_portfolio_](https://dave-estrada.com/). You can also email me at _destrada2193@gmail.com_ or click on one of the links below!
 

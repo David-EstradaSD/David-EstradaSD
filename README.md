@@ -6,11 +6,7 @@ My first Hello world was written in Java and as such, remains my favorite and st
 
 ### Here's my [_Portfolio_](https://dave-estrada.com/). You can also email me at _destrada2193@gmail.com_
 
-### Skills: 
-* Java
-* JavaScript
-* React
-* Angular
+#### Skills: Java, JS, React, Angular, SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-EstradaSD) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dave-estrada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dave-estrada.com/)  
 

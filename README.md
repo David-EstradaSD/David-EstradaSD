@@ -6,7 +6,7 @@ My first _Hello world_ was written in Java and as such, remains my favorite lang
 
 If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 
-You can find out more at my [_portfolio_](https://dave-estrada.com/). You can also [email](destrada2193@gmail.com) me or click on one of the links below!
+You can find out more at my [_portfolio_](https://dave-estrada.com/), or you can click on one of the links below!
 
 ### Tech Stack:
 

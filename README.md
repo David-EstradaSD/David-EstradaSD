@@ -2,7 +2,7 @@
 
 ## I'm Dave. Welcome to my GitHub!
 
-My first _Hello world_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, a couple databases and JavaScript (_including several of its frameworks_). 
+My first _"Hello World"_ was written in Java and as such, remains my favorite language. I am a full-stack developer with experience using SQL, a couple of databases and JavaScript (_including several of its frameworks_). 
 
 If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 

@@ -9,15 +9,15 @@ You can find out more at my [_portfolio_](https://dave-estrada.com/) or you can 
 ### Tech Stack:
 
 Back-End:
-Java, SQL, JPA, JSON, JDBC
+Java, SQL, Spring (Boot, MVC, Data) JPA, JSON, JDBC
 
 Front-End: 
-React, Angular, JavaScript, CSS, HTML
+React, Redux, Angular, JavaScript, CSS, HTML
 
-Tools & Methodologies:
-Git, Agile (_Scrum & Kanban_), REST APIs, Spring Boot, Spring Data, Spring MVC, MySQL, MongoDB
+Methodologies & Tools:
+Git, Agile (_Scrum & Kanban_), REST APIs, MySQL, MongoDB
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-EstradaSD) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dave-estrada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dave-estrada.com/)  
 
-<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD&theme=tokyonight&show_icons=true)](https://github.com/David-EstradaSD/github-readme-stats) -->
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD&theme=tokyonight&show_icons=true)](https://github.com/David-EstradaSD/github-readme-stats)

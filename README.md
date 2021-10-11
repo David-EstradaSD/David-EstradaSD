@@ -1,6 +1,4 @@
-![HikingToro](/images/hiking.jpeg)
-
-## I'm Dave. Welcome to my GitHub!
+## Hey! I'm Dave. Welcome to my GitHub.
 
 My first _"Hello World"_ was written in Java and as such, remains my favorite language; however, I'm growing quite fond of front-end frameworks and languages, particularly React. I am a full-stack developer with experience using SQL, a couple of databases and JavaScript (_including several of its frameworks_). 
 

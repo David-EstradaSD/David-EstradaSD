@@ -15,7 +15,7 @@ Front-End:
 React, Redux, Angular, JavaScript, CSS, HTML
 
 Methodologies & Tools:
-Git, TDD, Pair Programming, Agile (_Scrum & Kanban_), REST APIs, MySQL, MongoDB
+Git, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), REST APIs, MySQL, MongoDB
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-EstradaSD) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dave-estrada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dave-estrada.com/)  

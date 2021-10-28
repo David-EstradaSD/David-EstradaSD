@@ -1,10 +1,10 @@
 ## Hey! I'm Dave. Welcome to my GitHub.
 
-My first _"Hello World"_ was written in Java and as such, remains my favorite language; however, I'm growing quite fond of front-end frameworks and languages, particularly React. I am a full-stack developer with experience using SQL, a couple of different databases and JavaScript (_including several of its frameworks_). 
+My first _"Hello World"_ was written in Java and as such, remains my favorite language; however, I'm growing quite fond of front-end frameworks and languages, particularly React. I am a full-stack developer with experience using SQL, a couple of different databases and JavaScript (_including several of its frameworks_). You can find out more at my [_portfolio_](https://dave-estrada.com/).
 
 If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 
-You can find out more at my [_portfolio_](https://dave-estrada.com/).
+
 
 Check out my latest project: [Dave's Destinations](https://daves-destinations.vercel.app/).
 

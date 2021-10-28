@@ -6,7 +6,7 @@ If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’
 
 You can find out more at my [_portfolio_](https://dave-estrada.com/).
 
-Check out my latest deployed project: [Dave's Destinations](https://daves-destinations.vercel.app/).
+Check out my latest project: [Dave's Destinations](https://daves-destinations.vercel.app/).
 
 ### Tech Stack:
 
@@ -14,7 +14,7 @@ Back-End:
 Java, SQL, Spring (Boot, MVC, Data), JPA, JSON, JDBC
 
 Front-End: 
-React, Redux, Angular, NextJS, JavaScript, CSS, HTML
+React, Redux, NextJS, Angular, JavaScript, CSS, HTML
 
 Methodologies & Tools:
 Git, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), REST APIs, MySQL, MongoDB

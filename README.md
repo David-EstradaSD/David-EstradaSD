@@ -4,7 +4,9 @@ My first _"Hello World"_ was written in Java and as such, remains my favorite la
 
 If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 
-You can find out more at my [_portfolio_](https://dave-estrada.com/) or you can click on one of the links below!
+You can find out more at my [_portfolio_](https://dave-estrada.com/).
+
+Check out my latest deployed project: [Dave's Destinations](https://daves-destinations.vercel.app/).
 
 ### Tech Stack:
 

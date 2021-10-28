@@ -12,7 +12,7 @@ Back-End:
 Java, SQL, Spring (Boot, MVC, Data), JPA, JSON, JDBC
 
 Front-End: 
-React, Redux, Angular, JavaScript, CSS, HTML
+React, Redux, Angular, NextJS, JavaScript, CSS, HTML
 
 Methodologies & Tools:
 Git, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), REST APIs, MySQL, MongoDB

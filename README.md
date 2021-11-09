@@ -6,7 +6,7 @@ If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’
 
 
 
-Check out my latest project: [Dave's Destinations](https://daves-destinations.vercel.app/) (Note: the source code / repository is NA as it contains sensitive DB info).
+Check out my latest project: [Dave's Destinations](https://daves-destinations.vercel.app/)
 
 ### Tech Stack:
 

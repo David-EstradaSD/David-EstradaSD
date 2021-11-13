@@ -4,8 +4,6 @@ My first _"Hello World"_ was written in Java and as such, remains my favorite la
 
 If I'm not coding away, I'm most likely at the beach or hiking with my dog. I’m open to work and projects, so feel free to reach out!
 
-
-
 Check out my latest project: [Dave's Destinations](https://daves-destinations.vercel.app/)
 
 ### Tech Stack:
@@ -21,4 +19,5 @@ Git, REST APIs, Test Driven Development, Pair Programming, Agile (_Scrum & Kanba
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-EstradaSD) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dave-estrada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dave-estrada.com/)  
+
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD&theme=tokyonight&show_icons=true)](https://github.com/David-EstradaSD/github-readme-stats)

@@ -14,5 +14,3 @@ React, Redux, NextJS, Angular, JavaScript, CSS, HTML
 
 Methodologies & Tools:
 Git, REST APIs, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), MySQL, MongoDB
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-EstradaSD&theme=tokyonight&show_icons=true)](https://github.com/David-EstradaSD/github-readme-stats)

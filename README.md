@@ -7,10 +7,10 @@ If I'm not working (_currently a Contractor for Comcast_), I'm most likely at th
 ### Tech Stack:
 
 Back-End:
-Java, SQL, Spring (Boot, MVC, Data), JPA, JSON, JDBC
+Java, SQL, JSON, Elasticsearch, Spring (Boot, MVC, Data), JPA, JDBC
 
 Front-End: 
 React, Redux, NextJS, Angular, JavaScript, CSS, HTML
 
 Methodologies & Tools:
-Git, REST APIs, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), MySQL, MongoDB
+Git, REST APIs, Test Driven Development, Pair Programming, Agile (_Scrum & Kanban_), Postman, Concourse, GoCD 

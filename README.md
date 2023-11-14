@@ -1,13 +1,13 @@
 ## Hey! I'm Dave. Welcome to my GitHub.
 
-My first _"Hello World"_ was written in Java and as such, remains my favorite language. However, I've grown quite fond of front-end technologies, particularly React. I am a full-stack developer with experience using SQL, a couple of different databases and JavaScript (_including several of its frameworks_).
+My first _"Hello World"_ was written in Java, which remains my favorite language. Backend is my domain expertise, but I've grown quite fond of front-end, particularly React. I am a full-stack developer with a couple years worth of experience and eager to gain more.
 
 If I'm not working (_currently a Software Engineer for Target_), I'm most likely hiking.
 
 ### Tech Stack:
 
 Back-End:
-Java, SQL, JSON, Elasticsearch, Spring (Boot, MVC, Data), JPA, JDBC
+Java, Kotlin, SQL, JSON, Groovy, Spring 
 
 Front-End: 
 React, TypeScript, Redux, NextJS, Angular, JavaScript, CSS, HTML

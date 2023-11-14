@@ -12,5 +12,5 @@ Java, Kotlin, SQL, JSON, Groovy, Spring
 Front-End: 
 React, TypeScript, Redux, NextJS, Angular, JavaScript
 
-Methodologies & Tools:
+Additional Skills & Tools:
 REST APIs, Test Driven Development (_Unit, Integration_), Pair Programming, Agile (_Scrum & Kanban_), DBeaver (_MySQL, OracleSQL, PostgreSQL_), Flyway Migrations, Amazon S3, Docker, Design (_UI/UX & Backend Architecture_)
